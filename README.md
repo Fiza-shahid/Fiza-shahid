@@ -14,7 +14,7 @@
 - 🤝 I’m looking for help with **FlashPad – A Markdown Memo ✏️**
 - 💬 Ask me about **Laravel, React, Vue, and WordPress**
 - 📫 Reach me at **fizashahid@gmx.com**
-- 📄 Know more about my experiences → **[My Resume](#)** *(upload a public link and replace `#`)*
+- 📄 Know more about my experiences → **[My Resume](https://github.com/Fiza-shahid/Fiza-shahid/blob/main/Fiza%20Shahid(Dev)%20(1).pdf)** 
 - ⚡ Fun fact → 🐞 *99 little bugs in the code… take one down, patch it around, 127 little bugs in the code 🎵*
 
 ---
