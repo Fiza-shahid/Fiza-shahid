@@ -20,12 +20,17 @@
 ---
 
 ### 📊 My Developer Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_Projects_Completed-12+-blue?style=for-the-badge&logo=github" alt="Projects Completed" />
-  <img src="https://img.shields.io/badge/🚀_Contributions-500+-brightgreen?style=for-the-badge&logo=git" alt="Contributions" />
-  <img src="https://img.shields.io/badge/✨_Happy_Clients-7+-purple?style=for-the-badge&logo=handshake" alt="Happy Clients" />
-  <img src="https://img.shields.io/badge/🌟_Stars_Earned-25+-orange?style=for-the-badge&logo=starship" alt="Stars Earned" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="custom-stats-circles-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="custom-stats-circles.svg">
+
+ <img src="custom-stats-circles.svg" alt="Custom Developer Stats" />
+  </picture>
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Turning+coffee+☕+into+clean+code+💻;Debugging+at+2AM+like+a+pro+😅;Building+scalable+apps+with+Laravel%2C+React+%26+WordPress+🚀;Always+learning+something+new+📚" alt="Typing Animation" />
