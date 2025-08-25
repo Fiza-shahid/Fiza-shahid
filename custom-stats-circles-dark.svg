@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <style>
+    .label { font-family: Arial, sans-serif; font-size: 14px; fill: #f0f0f0; text-anchor: middle; }
+    .value { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #00d1ff; text-anchor: middle; }
+    rect { fill: #1e1e1e; }
+  </style>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="600" height="200"/>
+
+  <!-- Projects Completed -->
+  <circle cx="100" cy="100" r="60" stroke="#444" stroke-width="12" fill="none"/>
+  <circle cx="100" cy="100" r="60" stroke="#00d1ff" stroke-width="12" fill="none"
+    stroke-dasharray="377" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="377" to="188" dur="2s" fill="freeze"/>
+  </circle>
+  <text x="100" y="95" class="value">12+</text>
+  <text x="100" y="120" class="label">Projects</text>
+
+  <!-- Contributions -->
+  <circle cx="250" cy="100" r="60" stroke="#444" stroke-width="12" fill="none"/>
+  <circle cx="250" cy="100" r="60" stroke="#28a745" stroke-width="12" fill="none"
+    stroke-dasharray="377" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="377" to="50" dur="2s" fill="freeze"/>
+  </circle>
+  <text x="250" y="95" class="value">500+</text>
+  <text x="250" y="120" class="label">Contributions</text>
+
+  <!-- Clients -->
+  <circle cx="400" cy="100" r="60" stroke="#444" stroke-width="12" fill="none"/>
+  <circle cx="400" cy="100" r="60" stroke="#9b59b6" stroke-width="12" fill="none"
+    stroke-dasharray="377" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="377" to="300" dur="2s" fill="freeze"/>
+  </circle>
+  <text x="400" y="95" class="value">7+</text>
+  <text x="400" y="120" class="label">Clients</text>
+
+  <!-- Stars -->
+  <circle cx="550" cy="100" r="60" stroke="#444" stroke-width="12" fill="none"/>
+  <circle cx="550" cy="100" r="60" stroke="#e67e22" stroke-width="12" fill="none"
+    stroke-dasharray="377" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="377" to="250" dur="2s" fill="freeze"/>
+  </circle>
+  <text x="550" y="95" class="value">25+</text>
+  <text x="550" y="120" class="label">Stars</text>
+</svg>
